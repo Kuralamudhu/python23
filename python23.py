@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int main(void) {
         int o,y,u,p=0,h,k;
