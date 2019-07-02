@@ -3,7 +3,7 @@
 int main(void) {
         int o,y,u,p=0,h,k;
         scanf("%d %d",&h,&k);
-        for(i=h+1;i<k;,i++){
+        for(y=h+1;y<k;y++){
         o=y;
         p=0;
         while(o>0){
